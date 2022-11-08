@@ -16,7 +16,7 @@ def main():
     # Process and Output
     try:
         integer_as_int = int(integer_as_string)
-        if integer_as_string < 0:
+        if integer_as_int < 0:
             print("\nPlease enter a positive number. ")
         else:
             while counter <= integer_as_int:
