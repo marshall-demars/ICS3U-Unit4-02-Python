@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-# Created by: Michael Zagon
-# Created on: Sep 2021
-# This program multiplies each whole number that goes up to the users number
+# Created by: Marshall Demars
+# Created on: Nov 2022
+# This program calculates factorials
 
 
 def main():
-    # This function multiplies each whole number that goes up to the users number
+    # This program calculates factorials
     counter = 1
     factorial_product = 1
 
